@@ -47,3 +47,4 @@ Are you looking to dive deep into Playwright, the modern end-to-end testing fram
 41. [Playwright tips and tricks#2](https://blog.martioli.com/playwright-tips-and-tricks-2/)
 42. [Tips for Writing Efficient Playwright Test Scripts](https://ray.run/blog/tips-for-writing-efficient-playwright-test-scripts?ref=blog.martioli.com)
 43. [Detect and Handle Flaky Playwright Tests](https://medium.com/@ma11hewthomas/detect-and-handle-flaky-playwright-tests-5ab4af087492)
+44. [80/20 e2e test automation  rule](https://zhiminzhan.medium.com/laws-in-software-development-80-20-rule-in-e2e-test-automation-ff34f696e18e)
