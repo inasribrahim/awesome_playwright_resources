@@ -52,5 +52,5 @@ Are you looking to dive deep into Playwright, the modern end-to-end testing fram
 46. [Handle Shadow Dom with Playwright](https://testerops.com/playwright-and-shadow-dom-a-love-story/)
 47. [Verify PDF Content using Playwright](https://medium.com/bosphorusiss/verify-pdf-contents-using-playwright-and-node-js-dd3cf6749f70)
 48. [Faster end-to-end tests with Playwright](https://medium.com/@jfgreffier/faster-end-to-end-tests-with-playwright-4cbf32c3f9bf)
-49. [timeout exceed playwright](
+49. [Playwright Timeout 30000ms Exceeded](
 https://www.bondaracademy.com/blog/playwright-timeout-30000ms-exceeded)
