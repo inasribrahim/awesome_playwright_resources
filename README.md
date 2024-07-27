@@ -56,3 +56,4 @@ Are you looking to dive deep into Playwright, the modern end-to-end testing fram
 https://www.bondaracademy.com/blog/playwright-timeout-30000ms-exceeded)
 50. [playwright project](https://github.com/playwright-community/playwright-go)
 51. [Optmize Playwright Test](https://medium.com/@merisstupar11/strategic-tagging-optimizing-your-playwright-test-suit-4ab109343fed)
+52. [Playwright Automation on AWS](https://automation-testing-with-cicd.blogspot.com/2022/05/automation-testing-with-cicd-playwright.html)
