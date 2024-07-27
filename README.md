@@ -55,4 +55,4 @@ Are you looking to dive deep into Playwright, the modern end-to-end testing fram
 49. [Playwright Timeout 30000ms Exceeded](
 https://www.bondaracademy.com/blog/playwright-timeout-30000ms-exceeded)
 50. [playwright project](https://github.com/playwright-community/playwright-go)
-51, [Optmize Playwrit Test](https://medium.com/@merisstupar11/strategic-tagging-optimizing-your-playwright-test-suit-4ab109343fed)
+51. [Optmize Playwrit Test](https://medium.com/@merisstupar11/strategic-tagging-optimizing-your-playwright-test-suit-4ab109343fed)
