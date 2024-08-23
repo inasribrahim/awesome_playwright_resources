@@ -61,4 +61,4 @@ https://www.bondaracademy.com/blog/playwright-timeout-30000ms-exceeded)
 54. [typescript-fluent-builder-design-pattern](https://github.com/bnorrish/typescript-fluent-builder)
 55. [https://dev.to/playwright/testing-staging-and-production-environments-in-playwright-3p8b](https://dev.to/playwright/testing-staging-and-production-environments-in-playwright-3p8b)
 56. [Working with Tables in Playwright that are Not Marked as Table/TR](https://www.workwithloop.com/blog/working-with-tables-in-playwright-that-are-not-marked-as-table-tr)
-57.[Locater Target Element](https://ceroshjacob.medium.com/playwright-locators-targeting-elements-efficiently-ba2352ba6d76
+57. [Locater Target Element](https://ceroshjacob.medium.com/playwright-locators-targeting-elements-efficiently-ba2352ba6d76)
